@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.background-green{
+  background-color: #5cab49!important;
+
+}
+
+.color-green{
+  color: #5cab49;
+}
+
+.padding-right{
+  padding-right: 2%;
+}
+
+.padding-top{
+  padding-top: 7%;
+}
