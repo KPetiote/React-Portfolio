@@ -1,0 +1,15 @@
+// FOOTER JS
+// ---------------------------------------------------------------------------
+
+import React from 'react';
+// import "./style.css";
+
+function Footer() {
+    return (
+        <div>
+
+        </div>
+    )
+}
+
+export default Footer;
