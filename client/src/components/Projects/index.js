@@ -9,7 +9,6 @@ function Projects() {
         <main className="container">
             <div className="card border-0 shadow my-5">
                 <div className="card-body p-5">
-                    <h1 className="font-weight-medium">Projects:</h1>
                     
                     <div className="row">
                         <div>
@@ -100,6 +99,54 @@ function Projects() {
                                     <img
                                         src="/images/note-taker-website.gif"
                                         className="img-fluid img-thumbnail mx-auto displayed" alt="note-taker">
+                                    </img>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <hr></hr>
+
+                    <div className="row">
+                        <div>
+                            <h3 className="card-title card-image text-center">
+                                <b>Work Day Sceduler</b>
+                            </h3>
+                            <h3 className="card-title card-image text-center">
+                                <a className="color-green" href="https://github.com/KPetiote/Day-Planner">
+                                    Github Repository
+                                </a>
+                            </h3>
+                        </div>
+                        <div className="col-xs-12 col-sm-12">
+                            <div className="text-white">
+                                <a href="https://kpetiote.github.io/Day-Planner/">
+                                    <img
+                                        src="/images/workday-scheduler.gif"
+                                        className="img-fluid img-thumbnail mx-auto displayed" alt="weather-dashboard">
+                                    </img>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <hr></hr>
+
+                    <div className="row">
+                        <div>
+                            <h3 className="card-title card-image text-center">
+                                <b>Weather Dashboard</b>
+                            </h3>
+                            <h3 className="card-title card-image text-center">
+                                <a className="color-green" href="https://github.com/KPetiote/Weather-Dashboard">
+                                    Github Repository
+                                </a>
+                            </h3>
+                        </div>
+                        <div className="col-xs-12 col-sm-12">
+                            <div className="text-white">
+                                <a href=" https://kpetiote.github.io/Weather-Dashboard/">
+                                    <img
+                                        src="/images/weather-dashboard.png"
+                                        className="img-fluid img-thumbnail mx-auto displayed" alt="weather-dashboard">
                                     </img>
                                 </a>
                             </div>
