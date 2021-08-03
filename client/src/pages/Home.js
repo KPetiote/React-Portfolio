@@ -18,7 +18,7 @@ class Home extends Component {
                                     My name is Kenneth Petiote and I am a full-time IT Professional. 
                                     <br></br> 
                                     My knack for learning about technology has lead me to pursuit a certification in Full Stack Web Development. 
-                                    As an aspiring Developer, I enrolled and completed an extensive Web Development Program at Rutgers's Coding Bootcamp.
+                                    As an aspiring Developer, I enrolled and completed an extensive Web Development Program at Rutgers's Coding BootCamp.
                                     <br></br>
                                 </p>
 
@@ -36,7 +36,7 @@ class Home extends Component {
 
                                 <h4><b>Let's connect via the links below:</b></h4>
 
-                                <a href="tel:856-236-6874">
+                                <a href="mailto:kenneth.petiote@gmail.com">
                                     <i class="fas fa-envelope-square fa-3x color-green padding-right"></i>
                                 </a>   
 
@@ -50,7 +50,8 @@ class Home extends Component {
                             </div>
                             <div className="col-xs-7 col-md-5">
                                 <img id="portrait" src="/images/ken-portrait.jpg"
-                                    className="img-fluid img-thumbnail mx-auto" alt="Kenneth I Petiote Portrait"></img>
+                                    className="img-fluid img-thumbnail mx-auto" alt="Kenneth I Petiote Portrait">
+                                </img>
                             </div>
                         </div>
                         <br></br>
