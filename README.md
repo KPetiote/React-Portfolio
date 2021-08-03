@@ -22,7 +22,7 @@ Upon first loading the program, the end-user will be greeted with my home page.\
 User should be able to browse and see an About Me, Projects and Resume.
 
 ## Demo
-![Alt text](client/src/utils/images/React-Portfolio.gif "React-Portfolio")
+![Alt text](client/src/utils/images/react-portfolio.gif "React-Portfolio")
 
 ## Program Installation
 To use this program we will need to install Node.js & React.\
