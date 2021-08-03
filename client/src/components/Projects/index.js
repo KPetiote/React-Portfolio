@@ -109,7 +109,7 @@ function Projects() {
                     <div className="row">
                         <div>
                             <h3 className="card-title card-image text-center">
-                                <b>Work Day Sceduler</b>
+                                <b>Work Day Scheduler</b>
                             </h3>
                             <h3 className="card-title card-image text-center">
                                 <a className="color-green" href="https://github.com/KPetiote/Day-Planner">
@@ -122,7 +122,7 @@ function Projects() {
                                 <a href="https://kpetiote.github.io/Day-Planner/">
                                     <img
                                         src="/images/workday-scheduler.gif"
-                                        className="img-fluid img-thumbnail mx-auto displayed" alt="weather-dashboard">
+                                        className="img-fluid img-thumbnail mx-auto displayed" alt="work-day-scheduler">
                                     </img>
                                 </a>
                             </div>
